@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "APIiProBonus",
+        "repositoryURL": "https://github.com/AtabaevaAlina/APIiProBonus.git",
+        "state": {
+          "branch": "main",
+          "revision": "334e04e21c10063cc15792616918a86265f7a5ba",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
